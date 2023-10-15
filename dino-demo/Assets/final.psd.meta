@@ -103,13 +103,13 @@ ScriptedImporter:
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
-    border: {x: 0, y: 0, z: 71, w: 0}
+    border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 29
-      width: 129
-      height: 75
+      y: 53
+      width: 58
+      height: 51
     spriteID: 97d8780b21b514ca8ac61bb7ea6141a5
     spriteBone: []
     spriteOutline: []
@@ -118,7 +118,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 29}
+    uvTransform: {x: 4, y: 53}
     spritePosition: {x: 0, y: 0}
   - name: final_1
     originalName: 
